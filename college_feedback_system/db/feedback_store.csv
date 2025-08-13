@@ -1,0 +1,26 @@
+ID,Department,Teacher,FeedbackText,Sentiment
+1,Computer Science,Dr. Kumar,Great teaching and clear explanations.,Positive
+2,Mathematics,Prof. Sharma,Needs to improve speed of lectures.,Negative
+3,Physics,Ms. Gupta,Very approachable and helpful.,Positive
+4,English,Mr. Roy,"Engaging classes, loved the discussions.",Positive
+5,Chemistry,Dr. Singh,The lab sessions were well organized.,Neutral
+6,Computer Science,Dr. Kumar,Explains concepts thoroughly.,Positive
+7,Mathematics,Prof. Sharma,Difficult to follow sometimes.,Neutral
+8,Physics,Ms. Gupta,Good examples and problem-solving tips.,Positive
+9,English,Mr. Roy,Encourages participation.,Positive
+10,Chemistry,Dr. Singh,Sometimes the pace is too fast.,Neutral
+11,Computer Science,Dr. Kumar,Clear slides and notes.,Positive
+12,Mathematics,Prof. Sharma,Provides good extra resources.,Positive
+13,Physics,Ms. Gupta,Very knowledgeable.,Positive
+14,English,Mr. Roy,Helpful feedback on assignments.,Positive
+15,Chemistry,Dr. Singh,Lively lectures.,Positive
+16,Computer Science,Dr. Kumar,Explains complex topics well.,Positive
+17,Mathematics,Prof. Sharma,Needs more examples.,Neutral
+18,Physics,Ms. Gupta,Inspires interest in the subject.,Positive
+19,English,Mr. Roy,Encourages creativity.,Positive
+20,Chemistry,Dr. Singh,Clear demonstrations.,Positive
+21,Computer Science,Dr. Kumar,Good use of practical examples.,Positive
+22,Mathematics,Prof. Sharma,Lectures are sometimes unclear.,Neutral
+23,Physics,Ms. Gupta,Patient and clear.,Positive
+24,English,Mr. Roy,Focus on basics is appreciated.,Positive
+25,Chemistry,Dr. Singh,Good use of real-life examples.,Positive
